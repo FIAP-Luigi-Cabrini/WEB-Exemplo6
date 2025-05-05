@@ -42,4 +42,20 @@ header #logo{
     object-fit: cover; /*Ocupa todo o espaço*/
 }
 
+#container-quiz{
+    background: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100 vh;
+    margin: 0;
+}
 
+.quiz{
+    background: #CCC;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #555;
+    width: 80%
+    
+}
