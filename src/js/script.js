@@ -21,4 +21,4 @@ function slideShow(){
     setTimeout("slideShow()", tempo);
 }
 
-slideShow();
+slideShow()
